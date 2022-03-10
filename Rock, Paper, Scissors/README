@@ -1,0 +1,4 @@
+Simple game of Rock, Paper, Scissors created on 8/3/22. Had spare time and wanted to continue to use my JS skills so they don't get rusty. 
+Enjoyed this project, some very simple CSS used. 
+Could improve on it - there's an slight issue:
+--- Sometimes the computer's choice is undefined and therefore the result is undefined too. Will look at this in the week commencing 21/3/22 and will update further
